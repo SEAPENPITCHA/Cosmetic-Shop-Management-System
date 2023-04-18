@@ -1,7 +1,7 @@
 # Cosmetic-Shop-Management-System
 Worked on the project of Cosmetic Shop Management System in web application for Database course
 
-#Introduction
+# Introduction
 The Cosmetic Shop Management System is a storefront trading system for cosmetic stores that helps manage product sales to be more convenient and faster. The system will help calculate product prices and record purchases. Sell between merchants and buyers and issue purchase orders. And it also allows you to check the inventory in stock, check sales, and get a summary of sales results as well.
 
 The benefits of using the Cosmetic Shop Management System are:
@@ -10,7 +10,7 @@ The benefits of using the Cosmetic Shop Management System are:
 3. Financial security is ensured when trading data is stored. Therefore, sales can be verified by asking, Does it match the number of products sold? And in the event that the staff charged the wrong amount, they can check the information. 
 4. Helps to plan sales within the store, that is, can bring information about sales on a daily basis or each month to plan sales or sales promotions in detail, be complete, and have information to compare with monthly sales.
 
-#User Requirements and Scope
+# User Requirements and Scope
 1. Employees Log in to access the system using username and password.
 2. The system shows the names of employees who have accessed
 3. The system displays information and details about the product, including product type, product code, product name, product price.
@@ -21,10 +21,10 @@ Product sales and inventory You can search.
 Member, date and payment amount, which can be searched by order number.
 7. Sales report summary system showing today's sales report All sales reports and sales reports Sell each product
 
-#ER diagram
+# ER diagram
 ![image](https://user-images.githubusercontent.com/114067223/232800264-f3bd9dab-f4ad-436a-b553-62dc53dd9e9f.png)
 
-#User interface
+# User interface
 1.The first page of the website is a login page. Employees must log in to the system before starting to use it.
 ![image](https://user-images.githubusercontent.com/114067223/232804236-bee95111-f11e-4f32-ade0-74946f9429b6.png)
 
@@ -73,7 +73,7 @@ Total Sales Report
 ![image](https://user-images.githubusercontent.com/114067223/232807872-a8499a38-6f98-43f1-a9bc-8c40e56118cb.png)
 Product Sales Report
 ![image](https://user-images.githubusercontent.com/114067223/232808017-9584a356-c1b4-487d-8062-fe1bb105734e.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114067223/232808607-e2d05764-5f68-45a8-838d-ee408aab7d23.png)
 
 7.After use, employees can log out of the system. and return to the login page.
 
