@@ -60,7 +60,7 @@ When the information has been successfully entered and you press save, it will s
 5. The Orders page will be used to check all the order numbers in the store. and can search for words. You can place an order by entering your order number.
 ![image](https://user-images.githubusercontent.com/114067223/232806683-7027fd3d-582f-4ca1-a95a-23145b7c8dd9.png)
 Find an order
-![image](https://user-images.githubusercontent.com/114067223/232806837-d1d6e647-70e8-4347-8e02-a4446dfd30b5.png
+![image](https://user-images.githubusercontent.com/114067223/232806837-d1d6e647-70e8-4347-8e02-a4446dfd30b5.png)s
 Clicking on All Orders will display all order numbers.
 ![image](https://user-images.githubusercontent.com/114067223/232807238-d5f61504-77ae-4a4b-8a5d-a15a3fbdcca5.png)
 ![image](https://user-images.githubusercontent.com/114067223/232807497-cf292d0c-3a6c-4a7b-b235-0a2b138e5460.png)
